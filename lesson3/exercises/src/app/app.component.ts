@@ -33,7 +33,6 @@ export class AppComponent {
       this.width = 0;
       this.message = 'Shuttle in flight.';
       this.takeOffEnabled=false;
-       
     }
   }
   handleLanding(rocketImage) {
